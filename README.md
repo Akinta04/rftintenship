@@ -14,7 +14,7 @@ python Day1.py
 DAY 2
 📌 Description
 This Python program analyzes student marks by calculating average, highest, lowest, and assigning grades.
-🚀 Features
+📌 Features
 Average marks calculation
 Highest & lowest marks
 Students above average
@@ -34,4 +34,15 @@ CRUD operations
 Dictionary
 User input handling
 ▶️ Run
+DAY 4
 python Day3.py
+📌 Description
+This project analyzes system logs and counts different log types such as ERROR, INFO, and WARNING. It also finds the most frequent log type while ignoring case sensitivity.
+📌 Features
+Count ERROR logs
+Count INFO logs
+Count WARNING logs
+Detect most frequent log type
+Ignore uppercase/lowercase differences
+▶️ Run
+python Day4.py
