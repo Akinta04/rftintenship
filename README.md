@@ -50,7 +50,19 @@ DAY 5
 📌 Description:
 A simple Python program to read and process CSV files without using the Pandas library.
 🚀 Features:
-Reads CSV file data
+Reads CSV file data 
 Stores data in list of dictionaries
 Uses file handling and string splitting
 Beginner-friendly Python project
+DAY 6
+📌 Description:
+A simple python project that analyzes sales data using the Pandas library. This project demonstrates CSV handling, column operations, aggregation, and sorting.
+🚀Features
+Read sales data from CSV file
+Add new column: TOTAL = QUANTITY * PRICE
+Calculate total sales per product
+Find total revenue
+Identify top-selling product
+Sort products by revenue
+▶️ Run
+python DAY6.py
