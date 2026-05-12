@@ -34,8 +34,8 @@ CRUD operations
 Dictionary
 User input handling
 ▶️ Run
-DAY 4
 python Day3.py
+DAY 4
 📌 Description
 This project analyzes system logs and counts different log types such as ERROR, INFO, and WARNING. It also finds the most frequent log type while ignoring case sensitivity.
 🚀 Features
@@ -54,6 +54,8 @@ Reads CSV file data
 Stores data in list of dictionaries
 Uses file handling and string splitting
 Beginner-friendly Python project
+▶️ Run
+python DAY5.py
 DAY 6
 📌 Description:
 A simple python project that analyzes sales data using the Pandas library. This project demonstrates CSV handling, column operations, aggregation, and sorting.
@@ -64,5 +66,22 @@ Calculate total sales per product
 Find total revenue
 Identify top-selling product
 Sort products by revenue
+▶️ Run
+python DAY6.py
+DAY 7
+📌 Description
+A simple Python project to analyze student performance using Pandas and generate useful insights from marks data.
+🚀 Features
+Calculate average marks
+Find topper
+Add grades
+Subject-wise average
+Count students above average
+🚀 Concepts Used
+Pandas DataFrame
+Filtering
+Aggregation
+Functions
+Conditional Statements
 ▶️ Run
 python DAY6.py
