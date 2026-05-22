@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 #DATASET
-data = {"DAY":["MON","TUE","WED","THU","FRI","SAT","SUN"],"SALES":[120,150,128,140,128,150,400]}
+data = {"DAY":["MON","TUE","WED","THU","FRI","SAT","SUN"],"SALES":[128,150,116,140,137,150,400]}
 df=pd.DataFrame(data)
 print(df)
 
