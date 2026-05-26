@@ -216,3 +216,19 @@ Matplotlib
 Seaborn 
 ▶️Run
 python Day16.py
+DAY 17
+📌Description 
+This project performs Customer Segmentation Analysis using Python. It groups customers into High, Medium, and Low categories based on spending behavior and identifies low-engagement users.
+🚀 Features
+Customer grouping by spending
+High-value customer identification
+Low-engagement user detection
+Spending distribution analysis
+Customer category visualization
+Business strategy suggestions
+🛠 Technologies Used
+Python
+Pandas
+Matplotlib
+▶️Run
+python Day17.py
