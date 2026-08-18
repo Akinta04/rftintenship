@@ -281,4 +281,17 @@ Python
 Pandas
 Matplotlib
 ▶️ Run
-python Day19.py
+python Day20.py
+DAY 21
+DAY 21 – Functions
+📌 Description
+A Python project covering intermediate concepts of functions.
+🚀 Features
+✔ Prime number checking
+✔ Find largest number using "*args"
+✔ Student information using "**kwargs"
+✔ Calculate maximum, minimum, average and sum
+🛠️ Technologies Used
+Python
+▶️ Run
+python Day21.py
