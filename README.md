@@ -334,7 +334,7 @@ Matplotlib
 Seaborn
 Streamlit
 ▶️ Run
-day23.py
+python Day23.py
 DAY 24 – Weather Data Analytics
 📌 Description
 A Python project for analyzing weather data using CSV data.
@@ -349,7 +349,7 @@ A Python project for analyzing weather data using CSV data.
 🛠️ Technologies
 Python | Pandas | Matplotlib | Streamlit
 ▶️ Run
-day24.py
+python Day24.py
 DAY 25
 📌Description
 This Python project analyzes transaction data to detect potentially fraudulent activities. It identifies duplicate transactions, high-value transactions, suspicious accounts, and assigns a risk score to each transaction.
@@ -364,4 +364,22 @@ This Python project analyzes transaction data to detect potentially fraudulent a
 ✔ Suspicious transaction CSV export
 ✔ Streamlit dashboard with search and filters
 ▶️ Run
-python Day24.py
+python Day25.py
+Day 26 
+📌 Description
+A simple Python-based AI Resume Screening Tool that reads resumes, checks required skills, calculates a match score, ranks candidates, and shortlists suitable candidates.
+🚀 Features
+✔ Read multiple TXT resumes
+✔ Match resume skills with job requirements
+✔ Calculate Resume Match Score
+✔ Identify missing skills
+✔ Rank candidates
+✔ Export shortlisted candidates to CSV
+✔ Simple Streamlit interface for resume upload
+🛠️ Technologies Used
+✔ Python
+✔ Pandas
+✔ Streamlit
+✔ OS module
+▶️ Run
+python Day26.py
