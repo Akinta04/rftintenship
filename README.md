@@ -383,3 +383,24 @@ A simple Python-based AI Resume Screening Tool that reads resumes, checks requir
 ✔ OS module
 ▶️ Run
 python Day26.py
+DAY 27 
+📌 Description
+Python project that analyzes social media data to find trending hashtags, active users, engagement, popular posting times, and content categories.
+🚀 Features
+Top 5 Trending Hashtags
+Most Active Users
+Engagement Analysis
+Popular Posting Time
+Daily Engagement Trend
+Content Category Distribution
+Sentiment Analysis
+CSV Analytics Report
+Streamlit Dashboard with Search & Filters
+🛠️ Technologies Used 
+Python
+Pandas
+Matplotlib
+TextBlob
+Streamlit
+▶️ Run
+day27.py
