@@ -422,6 +422,7 @@ Python
 ▶️ Run
 day28.py
 Day 29
+📌 Description
 💰Smart Expense Tracker
 Python & Streamlit project for tracking, categorizing, and analyzing monthly expenses.
 Features
@@ -436,3 +437,78 @@ Features
 Python | Pandas | Matplotlib | Streamlit
 ▶️ Run
 day29.py
+DAY 30
+📌 Description
+🧾 Automated Invoice Processing SysteM
+The Automated Invoice Processing System is a Python-based application that processes invoice data and generates a consolidated invoice report.
+The system reads invoice information from CSV files, calculates the total invoice amount, identifies overdue invoices, generates summary information, and provides a Streamlit interface for easy interaction.
+🚀 Features
+1. Invoice Data Processing
+The system reads invoice data containing:
+- Invoice Number
+- Customer Name
+- Customer Email
+- Invoice Date
+- Due Date
+- Item
+- Quantity
+- Price
+2. Total Amount Calculation
+The total amount is calculated automatically using:
+Total Amount = Quantity × Price
+3. Overdue Invoice Detection
+The system compares the invoice due date with the current date.
+Invoices whose due date has already passed are marked as:
+Overdue
+Other invoices are marked as:
+Pending
+4. Consolidated Report
+The processed invoice information is displayed in a consolidated table containing invoice details, total amount, and payment status.
+5. Summary Report
+The application displays:
+- Total number of invoices
+- Total invoice amount
+- Number of overdue invoices
+- Number of pending invoices
+6. CSV Export
+The final consolidated invoice report can be downloaded as a CSV file.
+7. Streamlit Interface
+A simple Streamlit dashboard allows users to upload an invoice CSV file and view the processed results interactively.
+🛠️ Technologies Used
+- Python
+- Pandas
+- Streamlit
+- CSV
+- Datetime
+📂 Project Structure
+Automated-Invoice-Processing/
+│
+├── data/
+│   └── invoices.csv
+│
+├── output/
+│   └── consolidated_invoice_report.csv
+│
+├── invoice_processor.py
+├── app.py
+├── requirements.txt
+└── README.md
+▶️ How to Run
+Run the Streamlit application using:
+streamlit run app.py
+The application will open in your browser.
+⭐ Bonus Features
+Possible future improvements include:
+- Automated PDF invoice extraction
+- OCR-based invoice processing
+- Automatic email notifications for overdue invoices
+- Multiple-item invoice support
+- Invoice analytics dashboard
+- Database integration
+- Automatic PDF report generation
+- AI-based invoice information extraction
+▶️ Run
+day29.py
+
+
+
