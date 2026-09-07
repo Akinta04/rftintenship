@@ -405,19 +405,20 @@ Streamlit
 ▶️ Run
 day27.py
 Day 28
+📌 Description
 A Python project that analyzes stock portfolio data and calculates investment performance, profit/loss, portfolio returns, and sector-wise investments.
-Features
-* Calculate investment for each stock
-* Calculate Profit/Loss
-* Identify best and worst performing stocks
-* Calculate overall portfolio return
-* Generate portfolio growth chart
-* Generate sector-wise investment chart
-* Analyze daily returns
-* Predict next-day trend using Moving Average
-* Interactive Streamlit dashboard
-Technologies Used
-* Python
+🚀Features
+Calculate investment for each stock
+Calculate Profit/Loss
+Identify best and worst performing stocks
+Calculate overall portfolio return
+Generate portfolio growth chart
+Generate sector-wise investment chart
+Analyze daily returns
+Predict next-day trend using Moving Average
+Interactive Streamlit dashboard
+🛠️Technologies Used
+Python
 ▶️ Run
 day28.py
 Day 28
