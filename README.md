@@ -421,4 +421,18 @@ Interactive Streamlit dashboard
 Python
 ▶️ Run
 day28.py
-Day 28
+Day 29
+💰Smart Expense Tracker
+Python & Streamlit project for tracking, categorizing, and analyzing monthly expenses.
+Features
+📊 Expense Analysis
+🏷️ Auto Categorization
+💰 Savings Calculation
+📈 Spending Trends
+🔮 Expense Prediction
+📥 Report Export
+🌐 Streamlit Dashboard
+🛠️Tech Stack
+Python | Pandas | Matplotlib | Streamlit
+▶️ Run
+day29.py
